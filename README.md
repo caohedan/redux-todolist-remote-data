@@ -1,1 +1,1 @@
-# redux-todolist-remote-data
+基本实现要求，解决方案不太好
